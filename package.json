@@ -1,7 +1,7 @@
 {
   "name": "jasmine-seed",
   "version": "0.0.1",
-  "description": "Seed TDD project set up with gulp and jasmine",
+  "description": "A simple seed TDD project set up with gulp and jasmine",
   "main": "",
   "scripts": {
     "test": "gulp test"
