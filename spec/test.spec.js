@@ -3,8 +3,7 @@ describe('Setting up tests with Jasmine', function(){
     expect(true).toBe(true);
   });
 
-  it('shold see the source file', function() {
+  it('should see the source file', function() {
     expect(compliment()).toBe('You look nice today');
   });
 });
-
